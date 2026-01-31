@@ -47,8 +47,8 @@ ENGLISH-FRENCH-TRANSLATION/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/WalaaHassanAbdelraouf/English-French-Translation.git
-cd English-French-Translation
+git clone https://github.com/WalaaHassanAbdelraouf/English-to-French-Translator.git
+cd English-to-French-Translator
 ```
 
 2. Install dependencies:
